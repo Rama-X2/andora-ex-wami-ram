@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/basiooo/andromodem/internal/logger"
-	"github.com/basiooo/andromodem/internal/server"
+	"github.com/rama-x2/andora-main/internal/logger"
+	"github.com/rama-x2/andora-main/internal/server"
 	"github.com/sirupsen/logrus"
 )
 
