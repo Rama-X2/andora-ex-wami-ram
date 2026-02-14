@@ -8,8 +8,6 @@
 
 RAM (Remote Android Modem) adalah antarmuka berbasis LuCI yang memungkinkan pengguna menghubungkan dan mengontrol perangkat Android atau device lainnya sebagai modem ADB tethering, lengkap dengan fitur monitoring jaringan, kontrol daya, dan pembacaan pesan SMS secara langsung dari dashboard Luci.
 
-![Tampilan UI](https://github.com/Rama-X2/andora-main/raw/main/screenshot.png)
-
 ---
 
 ## 🚀 Fitur Unggulan
